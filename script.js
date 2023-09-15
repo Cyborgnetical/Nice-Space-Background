@@ -1,6 +1,6 @@
 // side note now that I look at this
 // this is a complete mess
-// Well this is good enough considering that I may now be ahead of my math class
+// still in school so don't gugde my math very much
 
 
 
